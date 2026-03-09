@@ -56,6 +56,6 @@ I'm an **AI/ML and Software Engineer** with a **First Class Honours** degree in 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://githubstats-lake.vercel.app/api?username=Hassan-jr&show_icons=true&theme=radical&border_color=1F222E&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&text_color=FFF&count_private=true&include_all_commits=true&rank_icon=percentile" alt="Abdiladif Hassan's GitHub Stats">
-  <img width="48%" src="https://githubstats-lake.vercel.app/api/top-langs/?username=Hassan-jr&layout=compact&theme=radical&border_color=1F222E&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&text_color=FFF" alt="Top Languages">
+  <img width="48%" src="https://githubstats-lake.vercel.app/api?username=Hassan-jr-2&show_icons=true&theme=radical&border_color=1F222E&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&text_color=FFF&count_private=true&include_all_commits=true&rank_icon=percentile" alt="Abdiladif Hassan's GitHub Stats">
+  <img width="48%" src="https://githubstats-lake.vercel.app/api/top-langs/?username=Hassan-jr-2&layout=compact&theme=radical&border_color=1F222E&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&text_color=FFF" alt="Top Languages">
 </p>
